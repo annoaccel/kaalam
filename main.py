@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import cv2
+#import cv2
 import hashlib
 
 from file_uploads import file_upload
